@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Sh3hab
+- 👋 Hi, I’m Shihab 
+- welcome to my get hub 😉
 
-subscribe to my youtube channal https://www.youtube.com/channel/UCnj04iXKrVQGOaZQwDqlyrA and share.
+
