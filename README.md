@@ -1,5 +1,5 @@
 ​<h1 align="center">Hi! I'm Shehab Bandar 👋</h1>
-<h3 align="center">Game Developer | Frontend Developer | UI/UX Designer</h3>
+<h3 align="center">Creative Developer | Game Dev | Full-Stack Web | 3D Artist</h3>
 ​<p align="center">
 I love building interactive digital experiences, developing games, and designing visually stunning digital products.
 </p>
