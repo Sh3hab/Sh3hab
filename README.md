@@ -1,56 +1,33 @@
-<h1 align="center">أهلاً! أنا شهاب بندر 👋</h1>
-<h3 align="center">مطور ألعاب | مطور واجهات ويب | مصمم UI/UX</h3>
-
-<p align="center">
-أحب بناء تجارب رقمية تفاعلية، تطوير الألعاب، وتصميم منتجات رقمية جذابة بصرياً.
+​<h1 align="center">Hi! I'm Shehab Bandar 👋</h1>
+<h3 align="center">Game Developer | Frontend Developer | UI/UX Designer</h3>
+​<p align="center">
+I love building interactive digital experiences, developing games, and designing visually stunning digital products.
 </p>
-
----
-
-## 🚀 عني
-مطور شغوف أدمج بين البرمجة والتصميم لبناء تجارب رقمية نظيفة وسهلة الاستخدام.  
-أشارك هنا مشاريع تجريبية وحقيقية تشمل تطبيقات ويب، ألعاب، وتصاميم ثلاثية الأبعاد متحركة.
-
-- 💻 تطوير تطبيقات ويب متكاملة  
-- 🎮 تطوير ألعاب باستخدام Unity  
-- 🎨 تصميم واجهات وتجارب مستخدم UI/UX  
-- 📚 التعلم المستمر وتجربة تقنيات جديدة  
-
----
-
-## 🛠 التقنيات التي أستخدمها
-
-### 🌐 تطوير الويب
-HTML • CSS • JavaScript • Vue.js • Node.js  
-
-### 🧠 البرمجة
-Python  
-
-### 🎮 تطوير الألعاب
-Unity  
-
-### 🎨 التصميم والثري دي
-Blender • Illustrator • Photoshop • After Effects  
-
----
-
-## 📌 أبرز مشاريعي
-- تطبيقات ويب متكاملة Full Stack  
-- APIs وخدمات ويب REST  
-- تجارب تصميم UI/UX  
-- مشاريع ألعاب Unity صغيرة وكبيرة  
-- تصاميم 3D وتحريك رسوم  
-
----
-
-## 📈 أهدافي الحالية
-- بناء أنظمة ويب قابلة للتطوير  
-- تحسين تجربة المستخدم والأداء  
-- إصدار مشاريع ألعاب كاملة  
-- التوسع في تقنيات الـ Backend المتقدمة  
-
----
-
-## 🤝 للتواصل
-يسعدني التعاون مع المطورين والمصممين، ومشاركة الأفكار والتجارب التقنية والإبداعية.  
-تصفح مشاريعي وتواصل معي في أي وقت!
+​🚀 About Me
+​A passionate developer who blends programming and design to build clean, user-friendly digital experiences. I share experimental and real-world projects here, including web applications, games, and animated 3D designs.
+​💻 Developing Full-Stack web applications
+​🎮 Game development using Unity
+​🎨 Designing UI/UX interfaces and user experiences
+​📚 Constantly learning and experimenting with new technologies
+​🛠 Tech Stack
+​🌐 Web Development
+​HTML • CSS • JavaScript • Vue.js • Node.js
+​🧠 Programming
+​Python
+​🎮 Game Development
+​Unity
+​🎨 Design & 3D
+​Blender • Illustrator • Photoshop • After Effects
+​📌 Project Highlights
+​Full-Stack Web Apps: End-to-end web solutions.
+​RESTful APIs: Scalable web services and backends.
+​UI/UX Case Studies: User-centered design experiences.
+​Unity Games: Small prototypes and large-scale game projects.
+​3D Design & Animation: High-quality assets and motion graphics.
+​📈 Current Goals
+​Building scalable web systems.
+​Optimizing user experience and performance.
+​Releasing full-scale game projects.
+​Diving deeper into advanced Backend technologies.
+​🤝 Let's Connect!
+​I’m always happy to collaborate with developers and designers to share technical and creative ideas. Feel free to browse my projects and reach out anytime!
